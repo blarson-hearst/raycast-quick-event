@@ -39,9 +39,9 @@ Finally open Raycast and use the command `Import Extension` then choose the clon
 ## Extension Preferences
 
 The `Your calendars` text field is *required*
-- Specify your calendar or multiple calendars (comma separated)
+- Specify your calendar or multiple calendars (comma separated, no spaces between names)
 - The calendar names can be found in the sidebar of Calendar.app
-- E.g., "Personal,Work Calendar"
+- E.g., "Personal,Work Calendar" 
 
 
 ## Create Event Examples
